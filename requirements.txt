@@ -1,0 +1,10 @@
+pytest @ git+https://github.com/Monstrofil/pytest.git
+pytest-json-report
+jinja2
+overpy
+pandas
+pyparsing
+textdistance
+thefuzz
+pytest-xdist
+pytest-xdist[psutil]
